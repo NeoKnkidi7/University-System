@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Student\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Student()
+comment2.params=firstName\ lastName\ universityNumber\ studentFees\ yearOfStudy\ qualification
+comment2.target=Student(java.lang.String,\ java.lang.String,\ int,\ double,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=double\ getStudentFees()
+comment4.params=
+comment4.target=int\ yearOfStudy()
+comment5.params=
+comment5.target=java.lang.String\ getQualification()
+comment6.params=studentFees
+comment6.target=void\ setStudentFees(double)
+comment7.params=qualification
+comment7.target=void\ getQualification(java.lang.String)
+comment8.params=
+comment8.target=void\ institutionRole()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
